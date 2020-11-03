@@ -1,2 +1,7 @@
 .deploy_git
 /themes
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
