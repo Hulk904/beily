@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 磨盘洲
 subtitle: ''
 description: ''
-keywords:
+keywords: 海贼王
 author: hulk
 language: zk-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.50beili.com
+url: http://www.mopzoo.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
